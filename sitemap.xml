@@ -3,35 +3,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://hoof.flatfact.com/mosquito-facts/</loc>
-    <lastmod>2015-03-18</lastmod>
-    <changefreq>Always</changefreq>
+    <changefreq>Never</changefreq>
   </url>
   <url>
     <loc>http://hoof.flatfact.com/mlp-facts/</loc>
-    <lastmod>2015-03-18</lastmod>
-    <changefreq>Always</changefreq>
-  </url>
-  <url>
-    <loc>http://hoof.flatfact.com/</loc>
-    <lastmod>2015-03-18</lastmod>
-    <changefreq>Always</changefreq>
-  </url>
-  <url>
-    <loc>http://hoof.flatfact.com/samsung-facts/</loc>
-    <lastmod>2015-03-18</lastmod>
-    <changefreq>Always</changefreq>
+    <changefreq>Never</changefreq>
   </url>
   <url>
     <loc>http://hoof.flatfact.com/facebook-facts/</loc>
-    <lastmod>2015-03-22</lastmod>
-    <changefreq>Always</changefreq>
+<changefreq>Never</changefreq>
   </url>
-    <url>
+  <url>
+    <loc>http://hoof.flatfact.com/samsung-facts/</loc>
+    <changefreq>Never</changefreq>
+  </url>
+<url>
     <loc>http://hoof.flatfact.com/gold-facts/</loc>
-    <lastmod>2015-03-25</lastmod>
-    <changefreq>Always</changefreq>
+    <changefreq>Never</changefreq>
   </url>
-
+<url>
+    <loc>http://hoof.flatfact.com/sony-facts/</loc>
+    <changefreq>Never</changefreq>
+  </url>
+<url>
+    <loc>http://hoof.flatfact.com/mrbean-facts/</loc>
+    <changefreq>Never</changefreq>
+  </url>
 </urlset>
 <!--<guid value="1288c65e-ab25-435c-a98a-8956239c16a8" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
