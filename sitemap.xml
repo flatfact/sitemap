@@ -29,6 +29,14 @@
     <loc>http://hoof.flatfact.com/mrbean-facts/</loc>
     <changefreq>Never</changefreq>
   </url>
+<url>
+    <loc>http://hoof.flatfact.com/spongebob-facts/</loc>
+    <changefreq>Never</changefreq>
+  </url>
+<url>
+    <loc>http://hoof.flatfact.com/ie-facts/</loc>
+    <changefreq>Never</changefreq>
+  </url>
 </urlset>
 <!--<guid value="1288c65e-ab25-435c-a98a-8956239c16a8" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
