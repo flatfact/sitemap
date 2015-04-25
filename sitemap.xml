@@ -2,53 +2,50 @@
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://hoof.flatfact.com/mosquito-facts/</loc>
-    <changefreq>Never</changefreq>
+    <loc>http://hoof.flatfact.com/</loc>
   </url>
   <url>
-    <loc>http://hoof.flatfact.com/mlp-facts/</loc>
-    <changefreq>Never</changefreq>
+    <loc>http://hoof.flatfact.com/ie-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/coke-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/spongebob-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/mrbean-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/steam-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/cat-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/fast-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/space-facts/</loc>
   </url>
   <url>
     <loc>http://hoof.flatfact.com/facebook-facts/</loc>
-<changefreq>Never</changefreq>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/gold-facts/</loc>
+  </url>
+  <url>
+    <loc>http://hoof.flatfact.com/sony-facts/</loc>
   </url>
   <url>
     <loc>http://hoof.flatfact.com/samsung-facts/</loc>
-    <changefreq>Never</changefreq>
   </url>
-<url>
-    <loc>http://hoof.flatfact.com/gold-facts/</loc>
-    <changefreq>Never</changefreq>
+  <url>
+    <loc>http://hoof.flatfact.com/mlp-facts/</loc>
   </url>
-<url>
-    <loc>http://hoof.flatfact.com/sony-facts/</loc>
-    <changefreq>Never</changefreq>
-  </url>
-<url>
-    <loc>http://hoof.flatfact.com/mrbean-facts/</loc>
-    <changefreq>Never</changefreq>
-  </url>
-<url>
-    <loc>http://hoof.flatfact.com/spongebob-facts/</loc>
-    <changefreq>Never</changefreq>
-  </url>
-<url>
-    <loc>http://hoof.flatfact.com/ie-facts/</loc>
-    <changefreq>Never</changefreq>
-  </url>
-<url>
-    <loc>http://hoof.flatfact.com/coke-facts/</loc>
-    <changefreq>Never</changefreq>
-  </url>
-<url>
-    <loc>http://hoof.flatfact.com/space-facts/</loc>
-    <changefreq>Never</changefreq>
-  </url>
-<url>
-    <loc>http://hoof.flatfact.com/fast-facts/</loc>
-    <changefreq>Never</changefreq>
+  <url>
+    <loc>http://hoof.flatfact.com/mosquito-facts/</loc>
   </url>
 </urlset>
-<!--<guid value="1288c65e-ab25-435c-a98a-8956239c16a8" />-->
+<!--<guid value="b060a6a9-41d5-4b3c-b6da-2d963a2d4d76" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
